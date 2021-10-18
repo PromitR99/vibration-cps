@@ -36,5 +36,5 @@ void loop() {
   Serial.print("\t"); 
   Serial.println(zg);
   //Serial.println("g   ");
-  delay(1);
+  delay(100);
 }
