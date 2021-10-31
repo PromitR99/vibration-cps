@@ -10,7 +10,7 @@ plt.show()
 
 p_data = np.array([])
 i = 0
-while i < 200:
+while i < 100:
     a_data = s_data.readline()
     a_data.decode()
     b_data = float(a_data)
